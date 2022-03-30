@@ -1,0 +1,38 @@
+
+body {
+    background-color: aquamarine;
+    font-style: oblique;
+}
+
+h1{
+    color: blue
+  }
+
+h3{
+    color: blue;
+}
+
+span{color:red}
+
+#aboutabout {
+    color: brown;
+}
+
+.floater {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    background-color: red;
+    border-style: ridge;
+    border-width: 100px;
+    border-color: yellowgreen;
+    text-align: center;
+          }
+#faves {
+    position: fixed;
+    bottom: 500px;
+    right:  0;
+    max-width: 200;
+
+}
